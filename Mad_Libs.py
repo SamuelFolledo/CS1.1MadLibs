@@ -89,8 +89,6 @@ pronoun2(singular) = angel/savior
 adjective1 = huge/clear/beautiful
 big integer = 6
 flavor = icky
-
------------------------------- SHORT STORY ---------------------------------------
 """
 
 
