@@ -42,6 +42,7 @@ def start():
     big_integer = user_int_input("Enter a big integer (>5): ")
     while big_integer <= 5: #forces user to input an integer greater than 5 only
         big_integer = user_int_input("Enter a whole integer greater than 5: ")
+    print(big_integer)
     flavor = user_input("Enter a flavor: ")
 
     assign_input(name, gender, planet, noun, plural_pronoun, singular_pronoun, adjective, big_integer, flavor) #call our assign_input method and inputting our user inputs in the parameter 
